@@ -1,5 +1,6 @@
 ### Ahoy!
-My name is Red and I currently work in QA & Release Management
+My name is Red and I currently work in QA & Release Management.
+
 I am studying at Epicodus.
 
 I have built games in Unity using C# & built websites using Javascript, HTML and CSS with VS Code.
