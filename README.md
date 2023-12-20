@@ -1,4 +1,13 @@
-### Hi there 👋
+### Ahoy!
+My name is Red and I currently work in QA & Release Management
+I am studying at Epicodus.
+
+I have built games in Unity using C# & built websites using Javascript, HTML and CSS with VS Code.
+
+My hobbies are rock climbing, backpacking and gaming.
+
+Hoping to expand my skills into designing VR/AR apps as well as AI interactive tools.
+
 
 <!--
 **G0blinC0de/G0blinC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
