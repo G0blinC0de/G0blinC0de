@@ -1,7 +1,5 @@
 ### Ahoy!
-My name is Red and I currently work in QA & Release Management.
-
-I am studying at Epicodus.
+My name is Red and I am a Junior Dev and Scrum Master at Gen City Labs.
 
 I have built games in Unity using C# & built websites using Javascript, HTML and CSS with VS Code.
 
