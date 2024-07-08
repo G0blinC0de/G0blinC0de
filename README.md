@@ -1,11 +1,9 @@
 ### Ahoy!
 My name is Red and I am a Junior Dev and Scrum Master at Gen City Labs.
 
-I have built games in Unity using C# & built websites using Javascript, HTML and CSS with VS Code.
+I have experience with C#, C++, Javascript, HTML and CSS
 
-My hobbies are rock climbing, backpacking and gaming.
-
-Hoping to expand my skills into designing VR/AR apps as well as AI interactive tools.
+LED Wall interactions, Game Development & Basic Website design
 
 
 <!--
